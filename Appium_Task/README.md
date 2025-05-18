@@ -31,5 +31,5 @@ This test automation framework includes:
 ## Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/ziadazharyy/Appium_Automation_Weather.git
 cd weather-app-automation
