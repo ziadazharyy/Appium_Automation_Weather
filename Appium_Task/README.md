@@ -33,3 +33,13 @@ This test automation framework includes:
 ```bash
 git clone https://github.com/ziadazharyy/Appium_Automation_Weather.git
 cd weather-app-automation
+
+
+## 🚀 How to Execute Tests
+
+You can execute the automated tests in multiple ways:
+
+### ✅ Run All Tests
+
+```bash
+mvn test
